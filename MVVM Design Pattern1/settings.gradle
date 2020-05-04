@@ -1,0 +1,2 @@
+rootProject.name='MVVMAndoidApplication'
+include ':app'
